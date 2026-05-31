@@ -33,9 +33,6 @@ The closing price had a sustained upward slope. EMA outperformed SMA at catching
 
 🙌 This project would not exist without the brilliance and hard work of my incredible team:
 
-Muhammad Asad
-Hassanat Ali Moazzam
-Sameer Anwar
-Moeez Rasheed
+Muhammad Asad, Hassanat Ali Moazzam, Sameer Anwar, Moeez Rasheed
 
 And a deep thank you to our professor, Dr. Tanvir Ahmad. This project changed how we think about markets, numbers, and analytical storytelling.
